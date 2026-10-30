@@ -1,0 +1,19 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large datasets
+data/raw/
+data/srgan_enhanced/
+
+# Model checkpoints
+checkpoints/
+*.keras
+*.h5
+
+# Temporary files
+*.log
+.DS_Store
